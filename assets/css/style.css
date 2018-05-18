@@ -1,0 +1,9 @@
+#hangmanBox {
+    border: solid  4px;
+    height : 500px;
+}
+
+#sidebar {
+    height : 500px;
+    border : solid  4px;
+}
